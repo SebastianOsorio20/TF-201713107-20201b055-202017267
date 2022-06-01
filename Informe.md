@@ -83,6 +83,18 @@
 <h3>●New York Ave NW
 <h4>○   18th St NW
 <h4>○   17th St NW
+<h3>●Virginia Ave NW
+<h4>○23rd St NW
+<h4>○22th St NW
+<h4>○E St NW
+<h4>○E St Expy
+<h4>○21st St NW
+<h4>○20th St NW
+<h4>○C St NW
+<h4>○(19th St NW, C St NW) 
+<h4>○18th St NW
+<h4>○Constitution Ave. NW
+
 
 
 <h2> Realización del grafo
