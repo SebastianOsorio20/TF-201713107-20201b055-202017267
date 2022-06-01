@@ -11,75 +11,75 @@
 
 <h2> Intersecciones por Calles
 <h3>    ●	Constitution Ave. NW
-<h3>      ○	  23rd St NW
-<h3>      ○	  22nd St NW
-<h3>      ○	  Henry Bacon Dr NW
-<h3>    ○	21st St NW
-<h3>    ○	20th St NW
-<h3>    ○	19th St NW
-<h3>    ○	18th St NW
-<h3>    ○	Virginia Ave NW
-<h3>    ○	17th St NW
-<h3>    ○	16th St NW
-<h3>    ○	15th St NW
-<h3>    ○	14th St NW
-<h3>    ○	12th St NW
-<h3>    ○	10th St NW
-<h3>    ○	9th St NW
-<h3>    ○	7th St NW
-<h3>    ○	6th St NW
+<h4>      ○	  23rd St NW
+<h4>     ○	  22nd St NW
+<h4>      ○	  Henry Bacon Dr NW
+<h4>    ○	21st St NW
+<h4>    ○	20th St NW
+<h4>    ○	19th St NW
+<h4>    ○	18th St NW
+<h4>    ○	Virginia Ave NW
+<h4>    ○	17th St NW
+<h4>    ○	16th St NW
+<h4>    ○	15th St NW
+<h4>    ○	14th St NW
+<h4>    ○	12th St NW
+<h4>    ○	10th St NW
+<h4>    ○	9th St NW
+<h4>    ○	7th St NW
+<h4>    ○	6th St NW
 <h3>●	C St NW
-<h3>○	23rd St NW
-<h3>○	22nd St NW
-<h3>○	21st St NW
-<h3>○	20th St NW
-<h3>○	Virginia Ave NW
-<h3>○	19th St NW, Virginia Ave NW
-<h3>○	18th St NW
-<h3>○	17th St NW
+<h4>○	23rd St NW
+<h4>○	22nd St NW
+<h4>○	21st St NW
+<h4>○	20th St NW
+<h4>○	Virginia Ave NW
+<h4>○	19th St NW, Virginia Ave NW
+<h4>○	18th St NW
+<h4>○	17th St NW
 <h3>●	D St NW
-<h3>○	23rd St NW
-<h3>○	18th St NW
-<h3>○	17th St NW
-<h3>○	14th St NW
-<h3>○	13 ½ St NW
+<h4>○	23rd St NW
+<h4>○	18th St NW
+<h4>○	17th St NW
+<h4>○	14th St NW
+<h4>○	13 ½ St NW
 <h3>●	E St Expy
-<h3>○	E St NW
+<h4>○	E St NW
 <h3>●	E St NW 
-<h3>○	23rd St NW
-<h3>○	Virginia Ave NW
-<h3>○	21st St NW
-<h3>○	20th St NW
-<h3>○	19th St NW
-<h3>○	18th St NW
-<h3>○	17th St NW
-<h3>○	15th St NW, Pennsylvania Avenue NW
-<h3>○	13th St NW
-<h3>○	12th St NW
-<h3>○	11th St NW
-<h3>○	11th St NW
-<h3>○	9th St NW
-<h3>○	8th St NW
-<h3>○	7th St NW
-<h3>○	6th St NW
+<h4>○	23rd St NW
+<h4>○	Virginia Ave NW
+<h4>○	21st St NW
+<h4>○	20th St NW
+<h4>○	19th St NW
+<h4>○	18th St NW
+<h4>○	17th St NW
+<h4>○	15th St NW, Pennsylvania Avenue NW
+<h4>○	13th St NW
+<h4>○	12th St NW
+<h4>○	11th St NW
+<h4>○	11th St NW
+<h4>○	9th St NW
+<h4>○	8th St NW
+<h4>○	7th St NW
+<h4>○	6th St NW
 <h3>●	Pennsylvania Avenue NW
-<h3>○	K St NW
-<h3>○	22nd St NW
-<h3>○	21st St NW
-<h3>○	I St NW
-<h3>○	20th St NW
-<h3>○	19th St NW
-<h3>○	H St NW
-<h3>○	15th St NW
-<h3>○	14th St NW
-<h3>○	13 ½ St NW
-<h3>○	13 St NW
-<h3>○	12th St NW
-<h3>○	11th St NW
-<h3>○	10th St NW
-<h3>○	9th St NW
-<h3>○	7th St NW
-<h3>○	6th St NW
+<h4>○	K St NW
+<h4>○	22nd St NW
+<h4>○	21st St NW
+<h4>○	I St NW
+<h4>○	20th St NW
+<h4>○	19th St NW
+<h4>○	H St NW
+<h4>○	15th St NW
+<h4>○	14th St NW
+<h4>○	13 ½ St NW
+<h4>○	13 St NW
+<h4>○	12th St NW
+<h4>○	11th St NW
+<h4>○	10th St NW
+<h4>○	9th St NW
+<h4>○	7th St NW
+<h4>○	6th St NW
 <h2> Realización del grafo
 <h3> El grafo se realizó con la ayuda de Google Maps usando la herramienta de creación de mapas donde se colocaba puntos que referencian a los nodos y calles a sus aristas, con esta herramienta se enumeró todos los nodos para luego ver sus nodos cercanos y su dirección.
 
