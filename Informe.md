@@ -1,3 +1,3 @@
 <center> <h1>Informe Trabajo Final</h1> </center>
-## Subtitle
-### Another deeper title
+<h2>Subtitle
+<h3> Another deeper title
