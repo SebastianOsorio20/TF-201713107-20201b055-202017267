@@ -1,3 +1,3 @@
-# sin comentarios
-## prueba
-### prueba 2
+\begin{center}
+Informe Trabajo Final
+\end{center}
