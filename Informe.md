@@ -11,21 +11,21 @@
 
 <h2> Intersecciones por Calles
 <h3>  ●	Constitution Ave. NW
-○	23rd St NW
-○	22nd St NW
-○	Henry Bacon Dr NW
-○	21st St NW
-○	20th St NW
-○	19th St NW
-○	18th St NW
-○	Virginia Ave NW
-○	17th St NW
-○	16th St NW
-○	15th St NW
-○	14th St NW
-○	12th St NW
-○	10th St NW
-○	9th St NW
-○	7th St NW
-○	6th St NW
+<h3>○	23rd St NW
+<h3>○	22nd St NW
+<h3>○	Henry Bacon Dr NW
+<h3>○	21st St NW
+<h3>○	20th St NW
+<h3>○	19th St NW
+<h3>○	18th St NW
+<h3>○	Virginia Ave NW
+<h3>○	17th St NW
+<h3>○	16th St NW
+<h3>○	15th St NW
+<h3>○	14th St NW
+<h3>○	12th St NW
+<h3>○	10th St NW
+<h3>○	9th St NW
+<h3>○	7th St NW
+<h3>○	6th St NW
      
