@@ -1,3 +1,1 @@
-\begin{center}
-Informe Trabajo Final
-\end{center}
+<center> <h1>Informe Trabajo Final</h1> </center>
