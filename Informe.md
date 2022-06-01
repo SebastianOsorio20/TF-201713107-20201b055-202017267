@@ -113,6 +113,15 @@
 <h4>○8th St NW
 <h4>○7th St NW
 <h3>●G St NW
+<h4>○22nd St NW
+<h4>○21st St NW
+<h4>○20th St NW
+<h4>○19th St NW
+<h4>○18th St NW
+<h4>○17th St NW
+<h4>○15th St NW
+<h4>○14th St NW
+
 
 
 <h2> Realización del grafo
