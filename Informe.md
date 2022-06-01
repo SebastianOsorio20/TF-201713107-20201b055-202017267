@@ -8,3 +8,24 @@
 <h2> Imagen del mapa con los nodos:
 
 [![nodos.png](https://i.postimg.cc/y8sd85yQ/nodos.png)](https://postimg.cc/BX7shmyH)
+
+<h2> Intersecciones por Calles
+<h3>  ●	Constitution Ave. NW
+○	23rd St NW
+○	22nd St NW
+○	Henry Bacon Dr NW
+○	21st St NW
+○	20th St NW
+○	19th St NW
+○	18th St NW
+○	Virginia Ave NW
+○	17th St NW
+○	16th St NW
+○	15th St NW
+○	14th St NW
+○	12th St NW
+○	10th St NW
+○	9th St NW
+○	7th St NW
+○	6th St NW
+     
