@@ -10,10 +10,10 @@
 [![nodos.png](https://i.postimg.cc/y8sd85yQ/nodos.png)](https://postimg.cc/BX7shmyH)
 
 <h2> Intersecciones por Calles
- ●	Constitution Ave. NW
-    ○	23rd St NW
-<h3>    ○	22nd St NW
-<h3>    ○	Henry Bacon Dr NW
+<h3>    ●	Constitution Ave. NW
+<h3>      ○	  23rd St NW
+<h3>      ○	  22nd St NW
+<h3>      ○	  Henry Bacon Dr NW
 <h3>    ○	21st St NW
 <h3>    ○	20th St NW
 <h3>    ○	19th St NW
