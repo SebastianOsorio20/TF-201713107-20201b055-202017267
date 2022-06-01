@@ -28,4 +28,55 @@
 <h3>    ○	9th St NW
 <h3>    ○	7th St NW
 <h3>    ○	6th St NW
-     
+<h3>●	C St NW
+<h3>○	23rd St NW
+<h3>○	22nd St NW
+<h3>○	21st St NW
+<h3>○	20th St NW
+<h3>○	Virginia Ave NW
+<h3>○	19th St NW, Virginia Ave NW
+<h3>○	18th St NW
+<h3>○	17th St NW
+<h3>●	D St NW
+<h3>○	23rd St NW
+<h3>○	18th St NW
+<h3>○	17th St NW
+<h3>○	14th St NW
+<h3>○	13 ½ St NW
+<h3>●	E St Expy
+<h3>○	E St NW
+<h3>●	E St NW 
+<h3>○	23rd St NW
+<h3>○	Virginia Ave NW
+<h3>○	21st St NW
+<h3>○	20th St NW
+<h3>○	19th St NW
+<h3>○	18th St NW
+<h3>○	17th St NW
+<h3>○	15th St NW, Pennsylvania Avenue NW
+<h3>○	13th St NW
+<h3>○	12th St NW
+<h3>○	11th St NW
+<h3>○	11th St NW
+<h3>○	9th St NW
+<h3>○	8th St NW
+<h3>○	7th St NW
+<h3>○	6th St NW
+<h3>●	Pennsylvania Avenue NW
+<h3>○	K St NW
+<h3>○	22nd St NW
+<h3>○	21st St NW
+<h3>○	I St NW
+<h3>○	20th St NW
+<h3>○	19th St NW
+<h3>○	H St NW
+<h3>○	15th St NW
+<h3>○	14th St NW
+<h3>○	13 ½ St NW
+<h3>○	13 St NW
+<h3>○	12th St NW
+<h3>○	11th St NW
+<h3>○	10th St NW
+<h3>○	9th St NW
+<h3>○	7th St NW
+<h3>○	6th St NW
