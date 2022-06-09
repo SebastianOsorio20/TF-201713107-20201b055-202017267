@@ -758,9 +758,6 @@
 
 
 
-
-
-
 <h2> Realización del grafo
 <h3> El grafo se realizó con la ayuda de Google Maps usando la herramienta de creación de mapas donde se colocaba puntos que referencian a los nodos y calles a sus aristas, con esta herramienta se enumeró todos los nodos para luego ver sus nodos cercanos y su dirección.
 
