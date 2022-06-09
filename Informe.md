@@ -758,10 +758,32 @@
 
 
 
-
-
-
 <h2> Realización del grafo
 <h3> El grafo se realizó con la ayuda de Google Maps usando la herramienta de creación de mapas donde se colocaba puntos que referencian a los nodos y calles a sus aristas, con esta herramienta se enumeró todos los nodos para luego ver sus nodos cercanos y su dirección.
 
 [![grafo.png](https://i.postimg.cc/L66Pynr6/grafo.png)](https://postimg.cc/QVwVCx8R)
+
+<h2> Implementación de algoritmo para calculo del tráfico
+<h3>Primero se utilizó el nodo original
+
+[![Screenshot-4.png](https://i.postimg.cc/85THTRmZ/Screenshot-4.png)](https://postimg.cc/TyHm9WSb)
+
+<h3> Segundo, se hizo uso de la función matematica perlin noice. Para implementarla en código tuvimos que importar la librería perlin_noise
+<h3>Tercero, ejecutamos el algoritmo, en base a la función, para obtener valores no tan disparejos para calcular el valor del tráfico. y Pasamos los resultados a una matriz de 1500 de altura y 300 de ancho
+
+[![Screenshot-1.png](https://i.postimg.cc/59BYMXPR/Screenshot-1.png)](https://postimg.cc/xqdTv1Vv)
+
+<h3>Cuarto, guardamos los datos que nos da el perlin noise en un arreglo y usamos el abs para que no nos de negativos.
+
+[![Screenshot-2.png](https://i.postimg.cc/Bn6XDMJr/Screenshot-2.png)](https://postimg.cc/XpRj6KGL)
+
+<h3>Quinto, hacemos un codigo para que nos imprima el valor del nodo con el peso de la arista en un parentesis, representando la arista el tiempo que toma de ir de un nodo a otro.
+
+[![Screenshot-3.png](https://i.postimg.cc/KvYZsjCL/Screenshot-3.png)](https://postimg.cc/F125Yrrs)
+
+<h3> Finalmente, para hallar el peso de la arista tomamos como valor minimos el numero 7 mas el valor que nos da una formula usando el perlin noise, dando esta formula un valor entre 0 a 8, siendo el peso total entre 7 a 15 
+Formula: int(nodo01[numero][numero2]/5)
+
+<h3> Adicionalmente, tenemos el código que usamos para hallar los pesos para cuando el tráfico sea bajo.
+
+[![Screenshot-5.png](https://i.postimg.cc/7h4YsN0n/Screenshot-5.png)](https://postimg.cc/BLh0tHhj)
