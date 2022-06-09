@@ -768,7 +768,9 @@
 
 <h2> Implementación de algoritmo para calculo del tráfico
 <h3>Primero se utilizó el nodo original
+
 [![Screenshot-4.png](https://i.postimg.cc/85THTRmZ/Screenshot-4.png)](https://postimg.cc/TyHm9WSb)
+
 <h3> Segundo, se hizo uso de la función matematica perlin noice. Para implementarla en código tuvimos que importar la librería perlin_noise
 <h3>Tercero, ejecutamos el algoritmo, en base a la función, para obtener valores no tan disparejos para calcular el valor del tráfico. y Pasamos los resultados a una matriz de 1500 de altura y 300 de ancho
 
