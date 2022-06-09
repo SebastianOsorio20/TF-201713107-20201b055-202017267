@@ -783,3 +783,7 @@
 
 <h3> Finalmente, para hallar el peso de la arista tomamos como valor minimos el numero 7 mas el valor que nos da una formula usando el perlin noise, dando esta formula un valor entre 0 a 8, siendo el peso total entre 7 a 15 
 Formula: int(nodo01[numero][numero2]/5)
+
+<h3> Adicionalmente, tenemos el código que usamos para hallar los pesos para cuando el tráfico sea bajo.
+
+[![Screenshot-5.png](https://i.postimg.cc/7h4YsN0n/Screenshot-5.png)](https://postimg.cc/BLh0tHhj)
