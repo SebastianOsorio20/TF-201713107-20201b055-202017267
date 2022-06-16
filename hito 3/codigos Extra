@@ -1,0 +1,10 @@
+Codigos Extra
+
+*Codigo para hallar error en el nodo*
+
+cont = 0
+for n in range(len(G)):
+  for x in range(len(G[n])):
+    if G[n][x][0] > 1500:
+      cont = G[n][x][0]
+print(cont)
