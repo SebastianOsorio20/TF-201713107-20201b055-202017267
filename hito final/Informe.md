@@ -805,4 +805,8 @@ Formula: int(nodo01[numero][numero2]/5)
 
 [![grafo.png](https://i.postimg.cc/pddLKGT1/grafo.png)](https://postimg.cc/K1db25tn)
 
+<h3> Se muestra los 3 paths con Dijkstra , bfs y dfs
+
+[![rutas.png](https://i.postimg.cc/TwSpryp5/rutas.png)](https://postimg.cc/TLVdx3jT)
+
 
