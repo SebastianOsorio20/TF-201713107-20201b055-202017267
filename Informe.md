@@ -789,5 +789,12 @@ Formula: int(nodo01[numero][numero2]/5)
 [![Screenshot-5.png](https://i.postimg.cc/7h4YsN0n/Screenshot-5.png)](https://postimg.cc/BLh0tHhj)
 
 <h2> Graficacion del trabajo 
-<h3> Se implemento anaconda para utilizar librerias que nos permitirian graficar nuestro mapa de una manera mas optima.
+<h2> Anaconda 
+<h3>es una distribución libre y abierta​ de los lenguajes Python y R, utilizada en ciencia de datos, y aprendizaje automático. Esto incluye procesamiento de grandes volúmenes de información, análisis predictivo y cómputos científicos.
+
 [![Anaconda-Logo-4b692470b0bc.png](https://i.postimg.cc/MTL1JJCR/Anaconda-Logo-4b692470b0bc.png)](https://postimg.cc/JDbsjv44)
+
+<h3> Se implemento anaconda para utilizar librerias que nos permitirian graficar nuestro mapa de una manera mas optima.
+
+
+
