@@ -787,3 +787,7 @@ Formula: int(nodo01[numero][numero2]/5)
 <h3> Adicionalmente, tenemos el código que usamos para hallar los pesos para cuando el tráfico sea bajo.
 
 [![Screenshot-5.png](https://i.postimg.cc/7h4YsN0n/Screenshot-5.png)](https://postimg.cc/BLh0tHhj)
+
+<h2> Graficacion del trabajo 
+<h3> Se implemento anaconda para utilizar librerias que nos permitirian graficar nuestro mapa de una manera mas optima.
+[![Anaconda-Logo-4b692470b0bc.png](https://i.postimg.cc/MTL1JJCR/Anaconda-Logo-4b692470b0bc.png)](https://postimg.cc/JDbsjv44)
