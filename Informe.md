@@ -796,5 +796,13 @@ Formula: int(nodo01[numero][numero2]/5)
 
 <h3> Se implemento anaconda para utilizar librerias que nos permitirian graficar nuestro mapa de una manera mas optima.
 
+<h2> Materiral de Apoyo
+<h3> Se utilizo material proporcionado por el profesor para elaborar el grafico teniendo este codigo como base , nosotros agregamos nuestra data que comprendia con las lista de adyacencia , las cordenadas y los paths.
+
+[![ayuda.png](https://i.postimg.cc/BvbVTHGC/ayuda.png)](https://postimg.cc/Z9kHZ9n9)
+
+<h3> Resultado final
+
+[![grafo.png](https://i.postimg.cc/pddLKGT1/grafo.png)](https://postimg.cc/K1db25tn)
 
 
